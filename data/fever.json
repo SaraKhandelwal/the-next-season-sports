@@ -1,0 +1,17 @@
+{
+  "as_of": "2026-11-19",
+  "intro": "What the public record shows about the Fever specifically, and what it does not show. This is context for conversation, not a diagnosis of anyone's assortment.",
+  "signals": [
+    {"t": "The Fever are one of 15 teams in Nike's 2026 Rebel Edition uniforms and fanwear.", "s": "s-nike-rebel", "launch": "nike-rebel"},
+    {"t": "The Fever were one of four launch teams for Off Season × WNBA ($110–$185).", "s": "s-fu-offseason", "launch": "offseason-wnba"},
+    {"t": "Two Fever players have individual product lines with national brands: Caitlin Clark (Nike Caitlin 1 apparel, $35–$325) and Sophie Cunningham (an adidas player-exclusive shoe in a separate pack).", "s": "s-hibbett-cc", "launch": "nike-caitlin"},
+    {"t": "Women's Fever tees at the WNBA Store list at $34.99–$39.99 regular (6 items read on Nov 19, 2026).", "s": "s-wnbastore-fever", "launch": null},
+    {"t": "In a July 2026 interview, the Pacers' global design and product director said he wants Fever and Pacers gear to be wearable beyond the arena and wants track-style pieces such as windbreakers and tracksuits back in the W.", "s": "s-si-pacers-bell", "launch": null, "optional": true}
+  ],
+  "not_found": "No Fever-level fashion collaboration or retail-operator announcement comparable to Dream/Monarch, Valkyries/Athleta or Liberty/NYON was found in public sources as of Nov 19, 2026. This is a gap in the public record, not proof that none exists or is planned.",
+  "questions": [
+    "Is there room between the $30–$40 fan tee and the $75+ fashion-led pieces for Fever-specific product, and who in the current partner set would own it?",
+    "Which of the repeating silhouettes (varsity jacket, polo, knit, lounge set) are already in the Fever assortment, and which are not?",
+    "Would a local device as specific as area codes or a borough print be available for Indianapolis, and how long does approval take?"
+  ]
+}

@@ -1,0 +1,1019 @@
+{
+  "as_of": "2026-11-19",
+  "scope": "Fashion-led women's basketball merchandise and collaborations (WNBA), plus adjacent women's-sports examples (NWSL, club/retailer capsules) used to test whether patterns travel. A purposive, documented set — not a census.",
+  "_fields": "actor = the independent unit counted by the evidence rubric. k: fact = stated by the source; price = a published price; claim = marketing or unaudited statement, never used as evidence.",
+  "launches": [
+    {
+      "id": "dream-monarch",
+      "name": "Dream × Monarch Commerce: Drip Shop and 'Homegrown' line",
+      "actor": "Atlanta Dream / Monarch Commerce",
+      "league": "WNBA",
+      "team": "Atlanta Dream",
+      "structure": "retail-operator",
+      "announced": "2026-05-08",
+      "announced_precision": "day",
+      "available": "On sale around the Rebel uniform release; exact on-sale date for the full line not stated",
+      "categories": [
+        "Apparel",
+        "Accessories",
+        "Bags"
+      ],
+      "silhouettes": [
+        "lounge-sweats",
+        "cropped-structured",
+        "neckwear",
+        "bag",
+        "uniform"
+      ],
+      "materials": [
+        "Upcycled jerseys (bags)",
+        "Area codes woven into fabric (uniform)"
+      ],
+      "price": null,
+      "collab": "The team hands retail operations and curated product to a women's-sports-focused commerce company; the Dream is described as its first WNBA franchise client.",
+      "audience": "Fans who want to wear team product away from the arena",
+      "story": [
+        "area-codes",
+        "city-identity",
+        "upcycled"
+      ],
+      "channels": [
+        "In-arena Drip Shop",
+        "Online shop"
+      ],
+      "release_model": "Ongoing line; more collections planned (reported)",
+      "fever": {
+        "level": "none",
+        "note": "No Fever link."
+      },
+      "facts": [
+        {
+          "t": "Announced a new in-arena 'Drip Shop', an online shop and a new back-end model for distributing curated women's product, with Monarch Commerce.",
+          "s": "s-dream-retail",
+          "k": "fact"
+        },
+        {
+          "t": "The 'Homegrown' line includes everyday fan pieces, lounge sets, ties, scarves and bandana-style pieces, in-stadium exclusives and bags made from upcycled jerseys.",
+          "s": "s-dream-retail",
+          "k": "fact"
+        },
+        {
+          "t": "Rebel uniform: black base, peach accents, coast-blue details; Atlanta area codes woven into the fabric.",
+          "s": "s-dream-retail",
+          "k": "fact"
+        },
+        {
+          "t": "Crop tops named as a silhouette; Monarch staff described as former Nike executives; more Dream collections planned.",
+          "s": "s-atlmag",
+          "k": "fact"
+        },
+        {
+          "t": "'Several firsts in the league', including a first licensed WNBA tie and first diamante (bedazzled) pieces.",
+          "s": "s-atlmag",
+          "k": "claim"
+        },
+        {
+          "t": "Positioned as designed for women rather than men's merchandise resized.",
+          "s": "s-atlmag",
+          "k": "claim"
+        }
+      ],
+      "gaps": [
+        "No prices published in either source.",
+        "No fabric compositions beyond the upcycled bags.",
+        "No sales, sell-through or margin information."
+      ],
+      "source_ids": [
+        "s-dream-retail",
+        "s-atlmag"
+      ],
+      "short": "Dream × Monarch"
+    },
+    {
+      "id": "united-dream",
+      "name": "'United We Dream': Dream × Atlanta United × Round21",
+      "actor": "Atlanta Dream / Atlanta United / Round21",
+      "league": "WNBA",
+      "team": "Atlanta Dream",
+      "structure": "specialist-partner",
+      "announced": "2026-03-12",
+      "announced_precision": "day",
+      "available": "2026-03-12 (launched the same day)",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [
+        "hoodie",
+        "tee"
+      ],
+      "materials": [
+        "Premium fleece (hoodie)",
+        "Lightweight mesh (top)"
+      ],
+      "price": null,
+      "collab": "Two clubs from different leagues share one three-piece capsule produced with a 'cultural sports product platform'.",
+      "audience": "Fans of both clubs; Women's History Month tie",
+      "story": [
+        "city-identity",
+        "event-tie"
+      ],
+      "channels": [
+        "Atlanta United team stores",
+        "MLSStore.com",
+        "ATLDreamShop.com"
+      ],
+      "release_model": "Limited capsule, 3 pieces",
+      "fever": {
+        "level": "none",
+        "note": "No Fever link."
+      },
+      "facts": [
+        {
+          "t": "Three limited-edition pieces: premium fleece hoodie, lightweight mesh short-sleeve top, classic graphic tee, each with co-branded detailing.",
+          "s": "s-unitedwedream",
+          "k": "fact"
+        },
+        {
+          "t": "Launched Thursday March 12, 2026 in Atlanta United's stores and online at MLSStore.com and ATLDreamShop.com.",
+          "s": "s-unitedwedream",
+          "k": "fact"
+        },
+        {
+          "t": "Round21 is described as a 'cultural sports product platform'.",
+          "s": "s-unitedwedream",
+          "k": "fact"
+        }
+      ],
+      "gaps": [
+        "No prices published.",
+        "No indication of quantities or customer overlap between the two clubs."
+      ],
+      "source_ids": [
+        "s-unitedwedream"
+      ],
+      "short": "Dream × Atlanta United"
+    },
+    {
+      "id": "playa-dream",
+      "name": "Playa Society × Dream × Cash App: statement court and streetwear",
+      "actor": "Playa Society / Atlanta Dream",
+      "league": "WNBA",
+      "team": "Atlanta Dream",
+      "structure": "designer-capsule",
+      "announced": "2025-05-21",
+      "announced_precision": "day",
+      "available": "Tied to the May 22, 2025 home opener",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [
+        "uniform"
+      ],
+      "materials": [],
+      "price": {
+        "low": 45,
+        "high": 180,
+        "basis": "announced range",
+        "source": "s-playa",
+        "note": "Range as stated in the announcement."
+      },
+      "collab": "A streetwear label designs a merchandise line and a statement center-court graphic that also appears on practice jerseys.",
+      "audience": "Fans; game-day and streetwear crossover",
+      "story": [
+        "event-tie",
+        "city-identity"
+      ],
+      "channels": [
+        "playasociety.com",
+        "Select styles at the Dream store"
+      ],
+      "release_model": "Event-tied collaboration",
+      "fever": {
+        "level": "none",
+        "note": "The Fever were the opponent at the debut game; no Fever product."
+      },
+      "facts": [
+        {
+          "t": "'First-of-its-kind WNBA statement court' reading 'Pay Some Respect to Women's Sports', debuting May 22, 2025; the slogan also appears on practice jerseys.",
+          "s": "s-playa",
+          "k": "fact"
+        },
+        {
+          "t": "Streetwear collection with Playa Society and Cash App, priced $45 to $180.",
+          "s": "s-playa",
+          "k": "price"
+        },
+        {
+          "t": "Sold at playasociety.com and select styles at the Dream retail store.",
+          "s": "s-playa",
+          "k": "fact"
+        }
+      ],
+      "gaps": [
+        "Individual product list and prices per item not given.",
+        "No sales information."
+      ],
+      "source_ids": [
+        "s-playa"
+      ],
+      "short": "Playa Society × Dream"
+    },
+    {
+      "id": "nike-rebel",
+      "name": "Nike Rebel Edition uniforms and Rebel Fanwear",
+      "actor": "Nike / WNBA",
+      "league": "WNBA",
+      "team": "League-wide (15 teams)",
+      "structure": "uniform-fanwear",
+      "announced": "2026-05-08",
+      "announced_precision": "day",
+      "available": "2026-05-08 on nike.com, lockervision.wnba.com, team stores and select retailers",
+      "categories": [
+        "Apparel",
+        "Uniforms"
+      ],
+      "silhouettes": [
+        "uniform",
+        "hoodie",
+        "tee",
+        "shorts"
+      ],
+      "materials": [],
+      "price": null,
+      "collab": "Uniform designs made with each team; fan apparel carries the uniforms' colors, graphics and 'spirit of self-expression'.",
+      "audience": "Fans, at league scale",
+      "story": [
+        "city-identity"
+      ],
+      "channels": [
+        "nike.com",
+        "lockervision.wnba.com",
+        "Team stores",
+        "Select retailers"
+      ],
+      "release_model": "League-wide seasonal release",
+      "fever": {
+        "level": "direct",
+        "note": "The Indiana Fever are one of the 15 teams in the Rebel Edition."
+      },
+      "facts": [
+        {
+          "t": "Victory Rebel Edition (jersey and shorts) designed with all 15 teams; sits alongside the existing Heroine (white) and Explorer (team color) editions.",
+          "s": "s-nike-rebel",
+          "k": "fact"
+        },
+        {
+          "t": "Rebel Fanwear includes a hoodie, T-shirt and shorts taking design cues from the Rebel Edition's colors and graphics.",
+          "s": "s-nike-rebel",
+          "k": "fact"
+        },
+        {
+          "t": "Nike says designs reflect each team's local influences and were built on insights from team communities.",
+          "s": "s-nike-rebel",
+          "k": "claim"
+        }
+      ],
+      "gaps": [
+        "No prices or materials in the release.",
+        "No indication which team designs sell best."
+      ],
+      "source_ids": [
+        "s-nike-rebel"
+      ],
+      "short": "Nike Rebel fanwear"
+    },
+    {
+      "id": "nike-caitlin",
+      "name": "Nike Caitlin 1: signature apparel range",
+      "actor": "Nike / Caitlin Clark",
+      "league": "WNBA",
+      "team": "Indiana Fever (athlete)",
+      "structure": "athlete-line",
+      "announced": "2026-09-14",
+      "announced_precision": "day",
+      "available": "Oct 1, 2026 globally (Sept 24 in China); shoe colorways launched earlier",
+      "categories": [
+        "Apparel",
+        "Footwear"
+      ],
+      "silhouettes": [
+        "tee",
+        "hoodie",
+        "varsity-jacket",
+        "jacket",
+        "long-sleeve",
+        "shorts"
+      ],
+      "materials": [
+        "Dri-FIT",
+        "Aero-FIT",
+        "Therma-FIT brushed fleece",
+        "Synthetic-fill (woven jacket)"
+      ],
+      "price": {
+        "low": 47,
+        "high": 325,
+        "basis": "retail listing, 9 adult pieces",
+        "source": "s-hibbett-cc",
+        "note": "Adult pieces only: women's tee $47 to varsity jacket $325. Two kids' items ($35 tee, $75 hoodie) are excluded so the range is comparable with adult fan tees."
+      },
+      "collab": "A single athlete's design language (cement-court graphics, CC logo, '2' motifs) carried across a shoe, 18 apparel pieces and kids' sizes.",
+      "audience": "Fans and players; adult and youth sizes",
+      "story": [
+        "athlete-story"
+      ],
+      "channels": [
+        "nike.com",
+        "Select retailers (e.g. Hibbett)"
+      ],
+      "release_model": "Signature range with staggered colorways",
+      "fever": {
+        "level": "direct",
+        "note": "Clark plays for the Fever. This is a Nike athlete line, not Fever team merchandise."
+      },
+      "facts": [
+        {
+          "t": "Nike lists 18 apparel pieces: Aero-FIT performance pieces with a cement-inspired print, 'Standard Issue Stretch' pieces, jackets, graphic hoodies and T-shirts 'meant to work on and off the court'.",
+          "s": "s-nike-caitlin",
+          "k": "fact"
+        },
+        {
+          "t": "Standard Issue style comes to women hoopers 'for the first time' (Nike's wording).",
+          "s": "s-nike-caitlin",
+          "k": "claim"
+        },
+        {
+          "t": "Retail listing: tee $47; Dri-FIT hoodie $90; brushed hoodie $95; varsity jacket $325; woven jacket $200; long-sleeve tops $105; 6-inch shorts $70; kids' tee $35; kids' fleece hoodie $75.",
+          "s": "s-hibbett-cc",
+          "k": "price"
+        }
+      ],
+      "gaps": [
+        "Prices come from a retailer's release listing, not Nike's release.",
+        "No fabric compositions beyond technology names.",
+        "No sell-through data."
+      ],
+      "source_ids": [
+        "s-nike-caitlin",
+        "s-hibbett-cc"
+      ],
+      "short": "Nike Caitlin 1"
+    },
+    {
+      "id": "adidas-ryoko",
+      "name": "adidas × Ryoko Rain (apparel) for All-Star 2026",
+      "actor": "adidas / Ryoko Rain",
+      "league": "WNBA",
+      "team": "League-wide",
+      "structure": "designer-capsule",
+      "announced": "2026-07",
+      "announced_precision": "month",
+      "available": "Online and select Dick's Sporting Goods stores",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [],
+      "materials": [],
+      "price": null,
+      "collab": "An outside label's apparel graphics and recurring butterfly motif around an 'invisible work' story.",
+      "audience": "Fans, All-Star Weekend",
+      "story": [
+        "athlete-story",
+        "event-tie"
+      ],
+      "channels": [
+        "adidas online",
+        "Select Dick's Sporting Goods stores"
+      ],
+      "release_model": "Event-tied collaboration",
+      "fever": {
+        "level": "indirect",
+        "note": "Fever's Sophie Cunningham has a player-exclusive shoe in a separate adidas pack (Crazy Energy Pack, July 24) — not part of Ryoko Rain."
+      },
+      "facts": [
+        {
+          "t": "Ryoko Rain collection built around the 'invisible' work before accolades; apparel graphics and a recurring butterfly motif.",
+          "s": "s-footwear-adidas",
+          "k": "fact"
+        },
+        {
+          "t": "The athlete-specific shoes (Sabally, Cunningham) and an All-Star edition belong to a separate 'Crazy Energy Pack' dropping July 24, 2026.",
+          "s": "s-footwear-adidas",
+          "k": "fact"
+        }
+      ],
+      "gaps": [
+        "Only one secondary source read; the adidas release was not opened in this review.",
+        "No silhouette list, prices or exact date.",
+        "Correction: v4 described the player shoes as part of this collaboration."
+      ],
+      "source_ids": [
+        "s-footwear-adidas"
+      ],
+      "short": "adidas × Ryoko Rain"
+    },
+    {
+      "id": "athleta-valkyries",
+      "name": "Athleta × Golden State Valkyries: off-court apparel partner",
+      "actor": "Athleta / Golden State Valkyries",
+      "league": "WNBA",
+      "team": "Golden State Valkyries",
+      "structure": "specialist-partner",
+      "announced": "2026-09-15",
+      "announced_precision": "day",
+      "available": "Online edit now; co-branded team-store merchandise 'beginning in 2027'",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [],
+      "materials": [],
+      "price": null,
+      "collab": "A women's performance-lifestyle brand becomes a team's official off-court apparel partner, with co-branded merchandise in the team store from 2027.",
+      "audience": "Fans who want everyday apparel; Bay Area girls' programming",
+      "story": [
+        "athlete-story",
+        "city-identity",
+        "event-tie"
+      ],
+      "channels": [
+        "Athleta.com (Off-Court Edit)",
+        "Valkyries team store (2027)"
+      ],
+      "release_model": "Multiyear; limited online edit now, co-branded line later",
+      "fever": {
+        "level": "none",
+        "note": "A model for what a specialist apparel partner could look like at team level."
+      },
+      "facts": [
+        {
+          "t": "Multiyear deal naming Athleta the Valkyries' Official Off-Court Apparel Partner.",
+          "s": "s-athleta-pr",
+          "k": "fact"
+        },
+        {
+          "t": "'Off-Court Edit': limited-time performance lifestyle assortment modeled by Veronica Burton, on Athleta.com.",
+          "s": "s-athleta-pr",
+          "k": "fact"
+        },
+        {
+          "t": "Sept 18 game: limited-edition T-shirts for 350 attendees; co-branded merchandise sold in the team store beginning in 2027.",
+          "s": "s-athleta-pr",
+          "k": "fact"
+        },
+        {
+          "t": "Financial terms, merchandise volumes and performance targets were not disclosed.",
+          "s": "s-retailboss",
+          "k": "fact"
+        }
+      ],
+      "gaps": [
+        "No prices, no product list for the 2027 line.",
+        "v4's official link was not confirmable; the syndicated press release is used instead."
+      ],
+      "source_ids": [
+        "s-athleta-pr",
+        "s-retailboss"
+      ],
+      "short": "Athleta × Valkyries"
+    },
+    {
+      "id": "catbird-wnba",
+      "name": "Catbird: WNBA's first demi-fine jewelry partner",
+      "actor": "Catbird / WNBA",
+      "league": "WNBA",
+      "team": "League-wide",
+      "structure": "specialist-partner",
+      "announced": "2026-09-01",
+      "announced_precision": "day",
+      "available": "2026-09-01, online",
+      "categories": [
+        "Jewelry"
+      ],
+      "silhouettes": [
+        "jewelry",
+        "charm"
+      ],
+      "materials": [
+        "Sterling silver",
+        "10-karat solid gold"
+      ],
+      "price": {
+        "low": 74,
+        "high": null,
+        "basis": "starting price",
+        "source": "s-variety-catbird",
+        "note": "'Prices starting at $74.'"
+      },
+      "collab": "Official league jewelry partner; limited-edition 'Jumpwoman' logo-silhouette charm, engravable basketball charm and city-letter charm (eight team tricodes).",
+      "audience": "Fans seeking a personal, giftable keepsake",
+      "story": [
+        "anniversary",
+        "athlete-story"
+      ],
+      "channels": [
+        "Catbird online"
+      ],
+      "release_model": "Limited-edition collection tied to the 30th season",
+      "fever": {
+        "level": "indirect",
+        "note": "City-letter charms use official team tricodes; whether the Fever is among the eight cities was not stated."
+      },
+      "facts": [
+        {
+          "t": "Catbird named the WNBA's official jewelry partner, described as its first demi-fine jewelry partner.",
+          "s": "s-variety-catbird",
+          "k": "fact"
+        },
+        {
+          "t": "Three charms: Jumpwoman (with a 30th-season mark), Engravable Basketball, City Letter (tricodes for eight cities).",
+          "s": "s-variety-catbird",
+          "k": "fact"
+        },
+        {
+          "t": "Sterling silver and 10-karat solid gold; prices start at $74.",
+          "s": "s-variety-catbird",
+          "k": "price"
+        },
+        {
+          "t": "Campaign imagery features Liberty founding players Teresa Weatherspoon and Sue Wicks.",
+          "s": "s-variety-catbird",
+          "k": "fact"
+        }
+      ],
+      "gaps": [
+        "Starting price only.",
+        "Which eight cities not stated.",
+        "No sales information; deal length and terms not disclosed."
+      ],
+      "source_ids": [
+        "s-variety-catbird"
+      ],
+      "short": "Catbird × WNBA"
+    },
+    {
+      "id": "coach-wnba",
+      "name": "Coach × WNBA: partnership, then a $95 basketball bag charm",
+      "actor": "Coach / WNBA",
+      "league": "WNBA",
+      "team": "League-wide",
+      "structure": "specialist-partner",
+      "announced": "2025-04-14",
+      "announced_precision": "day",
+      "available": "Bag charm listed at coach.com (checked 2026-11-19); release date not stated",
+      "categories": [
+        "Accessories"
+      ],
+      "silhouettes": [
+        "charm"
+      ],
+      "materials": [
+        "Metal (brass finish)"
+      ],
+      "price": {
+        "low": 95,
+        "high": 95,
+        "basis": "single retail listing",
+        "source": "s-coach-charm",
+        "note": "Limited-edition basketball bag charm, 30th-anniversary tie."
+      },
+      "collab": "A luxury accessories brand is the league's handbag partner; 18 months after the announcement a limited product appeared.",
+      "audience": "Fans and fashion buyers; gifting",
+      "story": [
+        "anniversary",
+        "athlete-story"
+      ],
+      "channels": [
+        "coach.com"
+      ],
+      "release_model": "Partnership first, limited product later",
+      "fever": {
+        "level": "none",
+        "note": "The 2025 announcement also named Coach presenting partner of the 2025 All-Star Game in Indianapolis."
+      },
+      "facts": [
+        {
+          "t": "Multiyear partnership naming Coach the league's official handbag partner (April 14, 2025). The release announced no product.",
+          "s": "s-wnba-coach",
+          "k": "fact"
+        },
+        {
+          "t": "'Coach | WNBA Basketball Bag Charm' is a limited-edition basketball-shaped charm at $95, marking the WNBA's 30th anniversary.",
+          "s": "s-coach-charm",
+          "k": "price"
+        }
+      ],
+      "gaps": [
+        "Single product; no broader Coach × WNBA collection found.",
+        "Release date and quantity not stated."
+      ],
+      "source_ids": [
+        "s-wnba-coach",
+        "s-coach-charm"
+      ],
+      "short": "Coach × WNBA"
+    },
+    {
+      "id": "offseason-wnba",
+      "name": "Off Season × WNBA: designer-led fanwear",
+      "actor": "Off Season",
+      "league": "WNBA",
+      "team": "Valkyries, Fever, Aces, Liberty",
+      "structure": "designer-capsule",
+      "announced": "2025-09-04",
+      "announced_precision": "day",
+      "available": "2025-09-04; still listed at the WNBA Store on 2026-11-19",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [
+        "cropped-structured",
+        "hoodie"
+      ],
+      "materials": [
+        "Fleece (corset, hoodie)"
+      ],
+      "price": {
+        "low": 110,
+        "high": 185,
+        "basis": "announced range",
+        "source": "s-fu-offseason",
+        "note": "Corset regular price $125 at the WNBA Store (listing)."
+      },
+      "collab": "A designer brand known for reworked licensed outerwear makes women's and unisex WNBA pieces for four launch teams.",
+      "audience": "Fashion-minded fans",
+      "story": [],
+      "channels": [
+        "Off Season website",
+        "WNBA Store",
+        "Fanatics sites"
+      ],
+      "release_model": "Ongoing collection, four teams at launch",
+      "fever": {
+        "level": "direct",
+        "note": "The Fever are one of the four launch teams."
+      },
+      "facts": [
+        {
+          "t": "Debut centered on four teams: Golden State Valkyries, Indiana Fever, Las Vegas Aces, New York Liberty; women's and unisex styles.",
+          "s": "s-fu-offseason",
+          "k": "fact"
+        },
+        {
+          "t": "Prices from $110 to $185; sold via the Off Season site, WNBA Store and Fanatics sites.",
+          "s": "s-fu-offseason",
+          "k": "price"
+        },
+        {
+          "t": "The WNBA Store lists a 'Women's Golden State Valkyries Off Season x WNBA Violet Fleece Corset' at $125 regular.",
+          "s": "s-wnbastore-corset",
+          "k": "price"
+        }
+      ],
+      "gaps": [
+        "Cropped button-up and cargo shorts (in v4) were not confirmed by any source read; removed.",
+        "Product list beyond the corset not verified.",
+        "No sales information."
+      ],
+      "source_ids": [
+        "s-fu-offseason",
+        "s-si-offseason",
+        "s-wnbastore-corset"
+      ],
+      "short": "Off Season × WNBA"
+    },
+    {
+      "id": "liberty-nyon",
+      "name": "Liberty × New York or Nowhere: seven-piece 30th-season capsule",
+      "actor": "New York Liberty / New York or Nowhere",
+      "league": "WNBA",
+      "team": "New York Liberty",
+      "structure": "designer-capsule",
+      "announced": "2026-06-27",
+      "announced_precision": "day",
+      "available": "On sale Sunday June 28, 2026, 10 p.m., Barclays Center team store",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [
+        "hoodie",
+        "varsity-jacket",
+        "lounge-sweats",
+        "knit",
+        "polo"
+      ],
+      "materials": [],
+      "price": {
+        "low": 50,
+        "high": 375,
+        "basis": "announced range",
+        "source": "s-bkmag-nyon",
+        "note": "As quoted by the publication."
+      },
+      "collab": "A local fashion label co-brands seven pieces with the team for its 30th season.",
+      "audience": "Fans; local fashion audience",
+      "story": [
+        "city-identity",
+        "local-makers",
+        "anniversary"
+      ],
+      "channels": [
+        "Official Team Store at Barclays Center"
+      ],
+      "release_model": "Timed capsule drop",
+      "fever": {
+        "level": "none",
+        "note": "A comparable team-level fashion capsule."
+      },
+      "facts": [
+        {
+          "t": "Seven co-branded pieces: two hoodies, two varsity jackets, sweatpants, a sweater and a polo.",
+          "s": "s-bkmag-nyon",
+          "k": "fact"
+        },
+        {
+          "t": "Prices $50 to $375; on sale Sunday June 28 at 10 p.m. at the Barclays Center team store.",
+          "s": "s-bkmag-nyon",
+          "k": "price"
+        },
+        {
+          "t": "Liberty's chief brand officer said landing a brand like NYON 'was always a goal'.",
+          "s": "s-modernretail-liberty",
+          "k": "fact"
+        }
+      ],
+      "gaps": [
+        "Materials not specified.",
+        "Single secondary source for the product list.",
+        "No sales information."
+      ],
+      "source_ids": [
+        "s-bkmag-nyon",
+        "s-modernretail-liberty"
+      ],
+      "short": "Liberty × NYON"
+    },
+    {
+      "id": "liberty-lafleur",
+      "name": "Liberty × M.M.LaFleur: workwear capsule in team color",
+      "actor": "M.M.LaFleur / New York Liberty",
+      "league": "WNBA",
+      "team": "New York Liberty",
+      "structure": "specialist-partner",
+      "announced": null,
+      "announced_precision": "undated",
+      "available": "Page undated; availability not stated",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [
+        "tailored",
+        "knit",
+        "tee",
+        "jacket"
+      ],
+      "materials": [
+        "Vegan leather (jacket)"
+      ],
+      "price": null,
+      "collab": "A women's workwear brand with a multi-year Liberty partnership releases limited styles in the team's official seafoam green and two prints.",
+      "audience": "Working women who are fans; fan-to-office crossover",
+      "story": [
+        "city-identity"
+      ],
+      "channels": [
+        "mmlafleur.com"
+      ],
+      "release_model": "Limited-edition capsule",
+      "fever": {
+        "level": "none",
+        "note": "A non-sports apparel category entering team merchandise."
+      },
+      "facts": [
+        {
+          "t": "Liberty Capsule is part of M.M.LaFleur's multi-year partnership with the Liberty; limited styles in Seafoam Green (the team's official color), a vintage-map 'Borough Print' and an 'Icon Print'.",
+          "s": "s-lafleur",
+          "k": "fact"
+        },
+        {
+          "t": "Pieces shown include a double-breasted blazer, knit jardigan, culottes, tees and a vegan leather jacket.",
+          "s": "s-lafleur",
+          "k": "fact"
+        }
+      ],
+      "gaps": [
+        "No prices, dates or fabric compositions on the page.",
+        "Only the brand's own page was read."
+      ],
+      "source_ids": [
+        "s-lafleur"
+      ],
+      "short": "Liberty × M.M.LaFleur"
+    },
+    {
+      "id": "liberty-ops",
+      "name": "Liberty's year-round merch operation (profile)",
+      "actor": "New York Liberty (team-run)",
+      "league": "WNBA",
+      "team": "New York Liberty",
+      "structure": "team-run",
+      "announced": "2026-08-07",
+      "announced_precision": "day",
+      "available": "Ongoing",
+      "categories": [
+        "Apparel",
+        "Accessories",
+        "Bags",
+        "Collectibles"
+      ],
+      "silhouettes": [
+        "tee",
+        "hoodie",
+        "varsity-jacket",
+        "neckwear",
+        "bag",
+        "charm"
+      ],
+      "materials": [],
+      "price": null,
+      "collab": "Team-designed mascot products, themed-night shirts with local designers (since 2023), plus Fanatics (store co-operator), Away (luggage), Nike, Homage and NYON as partners.",
+      "audience": "Fans, children and adults",
+      "story": [
+        "local-makers",
+        "city-identity"
+      ],
+      "channels": [
+        "Barclays Center team store (Fanatics co-run)",
+        "Away",
+        "Nike",
+        "Homage"
+      ],
+      "release_model": "12-month merchandise calendar; first holiday products planned",
+      "fever": {
+        "level": "none",
+        "note": "A published account of a peer team's merchandise operation."
+      },
+      "facts": [
+        {
+          "t": "The Liberty calls itself 'a 12-month business'; off-season merch is planned, including first holiday and stocking-stuffer products; the Barclays store will be renovated for more SKU capacity.",
+          "s": "s-modernretail-liberty",
+          "k": "fact"
+        },
+        {
+          "t": "Lead times quoted: about 48 hours to restock a themed-night tee, up to a year for a plush, about eight months for blind boxes.",
+          "s": "s-modernretail-liberty",
+          "k": "fact"
+        },
+        {
+          "t": "Quantities are set by consulting other teams' and leagues' comparables plus internal judgment; storage limits discourage overbuying.",
+          "s": "s-modernretail-liberty",
+          "k": "fact"
+        },
+        {
+          "t": "Team-reported, unaudited: team-store sales up more than 80% year over year; collaborations with local designers and brands drove more than 30% of merchandise sales; 2026 Pride Night shirt at 100% sell-through.",
+          "s": "s-modernretail-liberty",
+          "k": "claim"
+        }
+      ],
+      "gaps": [
+        "Sales figures come from the team via one publication, unattributed to a named speaker; not used to rate any finding.",
+        "No prices in the article."
+      ],
+      "source_ids": [
+        "s-modernretail-liberty"
+      ],
+      "short": "Liberty merch operation",
+      "profile": true
+    },
+    {
+      "id": "nwsl-deaddirt",
+      "name": "NWSL × Dead Dirt: league-wide knit jerseys",
+      "actor": "NWSL / Dead Dirt",
+      "league": "NWSL",
+      "team": "All 16 clubs",
+      "structure": "designer-capsule",
+      "announced": "2026-01-22",
+      "announced_precision": "day",
+      "available": "Available at publication (2026-01-22)",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [
+        "knit",
+        "uniform"
+      ],
+      "materials": [
+        "Knit"
+      ],
+      "price": null,
+      "collab": "A DC designer who is also a club's creative director makes a shared-template knit jersey for every club, with each club's colors, emblems and area codes.",
+      "audience": "Fans wanting an all-year, wearable jersey",
+      "story": [
+        "area-codes",
+        "local-makers",
+        "city-identity"
+      ],
+      "channels": [
+        "nwslshop.com",
+        "Club online stores"
+      ],
+      "release_model": "League-wide capsule, one template across clubs",
+      "fever": {
+        "level": "none",
+        "note": "Shows the 'area-code' device appearing outside the WNBA."
+      },
+      "facts": [
+        {
+          "t": "Knitwear jerseys with a shared template (short sleeves, V-neck), described as 'soft knitwear that you can wear all year'.",
+          "s": "s-hypebae-deaddirt",
+          "k": "fact"
+        },
+        {
+          "t": "All 16 NWSL teams; designs incorporate area codes and emblems; designer Domo Wells (Washington Spirit creative director) via her brand Dead Dirt — her first league-wide collection.",
+          "s": "s-hypebae-deaddirt",
+          "k": "fact"
+        },
+        {
+          "t": "Sold at nwslshop.com and each club's online store.",
+          "s": "s-hypebae-deaddirt",
+          "k": "fact"
+        }
+      ],
+      "gaps": [
+        "No prices or fabric details.",
+        "Single publication read."
+      ],
+      "source_ids": [
+        "s-hypebae-deaddirt"
+      ],
+      "short": "NWSL × Dead Dirt"
+    },
+    {
+      "id": "pacsun-acfc",
+      "name": "Pacsun × Angel City FC: four-piece capsule at a mall retailer",
+      "actor": "Pacsun / Angel City FC",
+      "league": "NWSL",
+      "team": "Angel City FC",
+      "structure": "mall-retailer",
+      "announced": "2026-07-28",
+      "announced_precision": "day",
+      "available": "Out now at publication (2026-07-28)",
+      "categories": [
+        "Apparel"
+      ],
+      "silhouettes": [
+        "polo",
+        "tee",
+        "hoodie",
+        "lounge-sweats"
+      ],
+      "materials": [],
+      "price": {
+        "low": 40,
+        "high": 70,
+        "basis": "announced range",
+        "source": "s-fu-pacsun",
+        "note": "As stated in the publication."
+      },
+      "collab": "A youth fashion retailer that treats sport as a brand pillar sells a club capsule in its own stores and online.",
+      "audience": "Youth and young adults; Los Angeles",
+      "story": [
+        "city-identity",
+        "athlete-story"
+      ],
+      "channels": [
+        "Select Pacsun stores",
+        "Pacsun online"
+      ],
+      "release_model": "Capsule inside a fashion retailer's calendar",
+      "fever": {
+        "level": "none",
+        "note": "Shows a mainstream fashion retailer, not a sports retailer, selling club product."
+      },
+      "facts": [
+        {
+          "t": "Four pieces: striped long-sleeve polo jersey, graphic tee, fleece sweatshirt, matching sweatpants; soft neutrals and the club's 'sol rosa'.",
+          "s": "s-fu-pacsun",
+          "k": "fact"
+        },
+        {
+          "t": "Priced $40 to $70; fronted by defender Gisele Thompson; funds support the club's education pillar.",
+          "s": "s-fu-pacsun",
+          "k": "price"
+        },
+        {
+          "t": "Pacsun's chief merchandising officer says the aim is to 'translate that momentum into fashion rooted in youth self-expression'.",
+          "s": "s-fu-pacsun",
+          "k": "claim"
+        }
+      ],
+      "gaps": [
+        "Market-growth statistics in the article are the publisher's, not Pacsun's, and are not used here.",
+        "No sales information."
+      ],
+      "source_ids": [
+        "s-fu-pacsun"
+      ],
+      "short": "Pacsun × Angel City"
+    }
+  ]
+}

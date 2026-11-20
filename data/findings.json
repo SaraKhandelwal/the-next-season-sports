@@ -1,0 +1,310 @@
+{
+  "as_of": "2026-11-19",
+  "headline": "Beyond the jersey. A closer look at the ideas reshaping women’s basketball fashion.",
+  "findings": [
+    {
+      "id": "partners",
+      "n": 1,
+      "title": "Nine partnerships. Three very different ways to change the product.",
+      "plain": "In nine documented projects, a specialist is doing more than supplying another logo tee. Some run the retail operation, some bring an established fashion brand into the assortment, and others design focused capsules. The operating model matters as much as the finished piece.",
+      "cap": null,
+      "evidence": [
+        {
+          "launch": "dream-monarch",
+          "shows": "Retail operations handed to Monarch Commerce; first WNBA team to do so, per the release."
+        },
+        {
+          "launch": "athleta-valkyries",
+          "shows": "Official off-court apparel partner; co-branded team-store product from 2027."
+        },
+        {
+          "launch": "liberty-lafleur",
+          "shows": "A workwear label with a multi-year Liberty partnership."
+        },
+        {
+          "launch": "liberty-nyon",
+          "shows": "Local fashion label co-brands a seven-piece capsule."
+        },
+        {
+          "launch": "catbird-wnba",
+          "shows": "League's first demi-fine jewelry partner."
+        },
+        {
+          "launch": "coach-wnba",
+          "shows": "League handbag partner; a first limited product 18 months later."
+        },
+        {
+          "launch": "united-dream",
+          "shows": "Round21 produces a cross-league capsule."
+        },
+        {
+          "launch": "nwsl-deaddirt",
+          "shows": "A designer who is also a club creative director makes a league-wide jersey."
+        },
+        {
+          "launch": "pacsun-acfc",
+          "shows": "A mainstream fashion retailer sells a club capsule."
+        }
+      ],
+      "chart": null,
+      "broader": "Nine different partners, two leagues, three structures (operator, brand partner, designer capsule). This is the best-documented pattern in the set.",
+      "alternatives": [
+        "Incumbents still anchor the core. Nike made the Rebel uniforms and fanwear; Fanatics co-runs the Liberty's store and sells Off Season. Specialists look layered on top, not replacing them.",
+        "Partnership announcements are cheap and product is not guaranteed: Coach's partnership had no product for 18 months, and Athleta's co-branded line is a 2027 plan.",
+        "The sample is found through news coverage, which favors novel arrangements over routine licensing."
+      ],
+      "matters": "The question for a planner may be less 'which licensee?' than 'which parts of the assortment would a specialist do better, and who owns the rights, timing and approval?' The Liberty's account suggests lead times range from 48 hours to a year depending on the product.",
+      "change_mind": "Evidence that most of these arrangements are one-offs that were not renewed, or that the specialists' product did not reach shelves as announced.",
+      "missing": [
+        "Contract and licensing terms (none disclosed)",
+        "Which specialist products actually shipped and in what volume",
+        "Whether any arrangement has been renewed or ended"
+      ],
+      "watch": [
+        "athleta-2027",
+        "monarch-next",
+        "coach-more"
+      ],
+      "prompt": "Is the bigger decision who makes the product, who develops the concept, or who runs the entire retail experience?"
+    },
+    {
+      "id": "silhouettes",
+      "n": 2,
+      "title": "The jersey is no longer the only silhouette doing the talking.",
+      "plain": "Varsity jackets, polos, knitwear and relaxed sets recur across unrelated launches. These are familiar wardrobe shapes with a basketball point of view, not simply different graphics on standard fan merchandise.",
+      "cap": {
+        "level": "Moderate",
+        "reason": "Silhouette lists come from announcements and partial product titles. Fabric, fit and construction are documented for very few items."
+      },
+      "evidence": [
+        {
+          "launch": "liberty-nyon",
+          "shows": "Two varsity jackets, a polo, a sweater, sweatpants, two hoodies."
+        },
+        {
+          "launch": "nike-caitlin",
+          "shows": "Varsity jacket ($325), woven jacket, long-sleeve tops, shorts, hoodies."
+        },
+        {
+          "launch": "pacsun-acfc",
+          "shows": "Striped long-sleeve polo jersey, fleece sweatshirt, sweatpants."
+        },
+        {
+          "launch": "nwsl-deaddirt",
+          "shows": "Knit jersey with V-neck, designed to wear year-round."
+        },
+        {
+          "launch": "liberty-lafleur",
+          "shows": "Knit jardigan, culottes, blazer."
+        },
+        {
+          "launch": "dream-monarch",
+          "shows": "Lounge sets, crop tops, ties and scarves."
+        },
+        {
+          "launch": "offseason-wnba",
+          "shows": "Fleece corset (confirmed listing at $125)."
+        }
+      ],
+      "chart": "matrix",
+      "broader": "Seven independent launches, two leagues. The recurring items are specific enough to check: the varsity jacket appears in two unrelated projects; the polo in two; knit pieces and lounge sets in three each.",
+      "alternatives": [
+        "Varsity jackets and polos are fall/winter and 30th-season 'heritage' staples. Seasonal fashion cycles may explain overlap without any sports-specific cause.",
+        "A hoodie, tee and sweatpants appear in most launches because they are default categories; their presence says little.",
+        "Some launches (Athleta, Playa Society, adidas Ryoko Rain) published no usable silhouette lists, so absence from this table is not absence from the market."
+      ],
+      "matters": "A planner can compare her own outerwear, knit and polo coverage against the shapes others are testing. It is a gap-spotting list, not a demand forecast.",
+      "change_mind": "Product photos or listings showing these items are standard in existing assortments; or evidence that these pieces were limited to one drop and not repeated.",
+      "missing": [
+        "Fit, fabric and construction detail",
+        "Whether jackets and knits were repeated in later drops",
+        "Silhouette lists for Athleta, Playa Society, adidas"
+      ],
+      "watch": [
+        "athleta-2027",
+        "liberty-holiday"
+      ],
+      "prompt": "Which shapes fit into an everyday wardrobe, and which require a different supplier, lead time or product development approach?"
+    },
+    {
+      "id": "accessories",
+      "n": 3,
+      "title": "The smallest pieces are creating another way to show fandom.",
+      "plain": "Coach’s basketball charm, Catbird’s jewelry, Liberty accessories and upcycled Dream-jersey bags put team identity into objects people carry or gift. Four distinct examples make this worth watching, not a proven sales trend.",
+      "cap": null,
+      "evidence": [
+        {
+          "launch": "coach-wnba",
+          "shows": "Limited-edition basketball bag charm, $95."
+        },
+        {
+          "launch": "catbird-wnba",
+          "shows": "Three charms in sterling silver or 10K gold from $74."
+        },
+        {
+          "launch": "liberty-ops",
+          "shows": "Ellie bag charms; Away luggage; Liberty says charms are 'selling like hotcakes' (team statement, unaudited)."
+        },
+        {
+          "launch": "dream-monarch",
+          "shows": "Ties, scarves, bandana pieces and bags from upcycled jerseys."
+        }
+      ],
+      "chart": null,
+      "broader": "Four independent sellers. All four are WNBA, so this is the thinnest cross-sport case. The bag-charm form factor appears in two unrelated projects (Coach and Liberty).",
+      "alternatives": [
+        "The 30th anniversary is an explicit tie for both Coach and Catbird; the timing may be a one-season event.",
+        "Accessories are easy to license and ship, so their appearance may reflect low risk rather than strong demand.",
+        "The only sales-adjacent statement (Liberty's charms) is a quote from the team's own brand officer."
+      ],
+      "matters": "Accessories carry different lead times, storage needs and price points from apparel. A planner can ask whether a low-risk, giftable category adds a reason to buy that is not already covered.",
+      "change_mind": "Evidence that the charms were one-season anniversary items; or that none of them was repeated in 2027.",
+      "missing": [
+        "Any sell-through for charms or jewelry",
+        "Whether Coach extends beyond a single product",
+        "Non-WNBA examples to test cross-sport"
+      ],
+      "watch": [
+        "coach-more",
+        "liberty-holiday"
+      ],
+      "prompt": "Could accessories support gifting and repeat visits without the sizing complexity of apparel?"
+    },
+    {
+      "id": "local",
+      "n": 4,
+      "title": "A city’s identity is becoming part of the design language.",
+      "plain": "Area codes, borough maps and work by local artists turn a place into a specific product detail. The more interesting shift is from adding a city name to making local references part of the design itself.",
+      "cap": {
+        "level": "Moderate",
+        "reason": "The strongest quantitative claim (local collaborations driving 30%+ of Liberty merchandise sales) is team-reported, unattributed and unaudited, so it is not used to raise the rating."
+      },
+      "evidence": [
+        {
+          "launch": "dream-monarch",
+          "shows": "Atlanta area codes woven into the Rebel uniform fabric."
+        },
+        {
+          "launch": "nwsl-deaddirt",
+          "shows": "Area codes and emblems on every club's knit jersey — the same device, different league, different designer."
+        },
+        {
+          "launch": "liberty-lafleur",
+          "shows": "'Borough Print' from vintage New York maps."
+        },
+        {
+          "launch": "liberty-ops",
+          "shows": "Themed-night shirts with local designers since 2023."
+        },
+        {
+          "launch": "liberty-nyon",
+          "shows": "A New York label for the 30th-season capsule."
+        },
+        {
+          "launch": "united-dream",
+          "shows": "A cross-league Atlanta capsule."
+        },
+        {
+          "launch": "athleta-valkyries",
+          "shows": "Bay Area community programming alongside the partnership."
+        }
+      ],
+      "chart": null,
+      "broader": "Seven independent projects, two leagues. Three of them (Dream, NWSL, Liberty) use a concrete local device rather than just a city name. Atlanta and New York each supply more than one example, which could mean an Atlanta/New York pattern rather than a league pattern.",
+      "alternatives": [
+        "'Local' is easy to claim in a press release. Only the area-code examples show a specific, checkable design decision.",
+        "Big-market, design-forward cities may be over-represented in coverage.",
+        "A team's strongest local identity may not translate to a smaller market."
+      ],
+      "matters": "A planner can ask which local devices are specific and ownable for her own market, and how long the approval path for them is. This page cannot tell her whether any of them sells.",
+      "change_mind": "Evidence that locally themed product underperforms core product; or that these devices are limited to a handful of large markets.",
+      "missing": [
+        "Any independent sales data on local-theme product",
+        "Examples from mid-size markets",
+        "A second look at Liberty's 30% claim from an unaffiliated source"
+      ],
+      "watch": [
+        "nwsl-deaddirt-2",
+        "liberty-holiday"
+      ],
+      "prompt": "What would feel unmistakably local and still look desirable without a giant team logo?"
+    },
+    {
+      "id": "price",
+      "n": 5,
+      "title": "The new price ladder is about positioning, not just a higher ticket.",
+      "plain": "Across seven documented launches, published starting prices range from $40 to $110. Some enter through accessible apparel; others begin with jewelry or designer-led pieces. Comparing the entry product, not simply the price ceiling, is the useful distinction.",
+      "cap": {
+        "level": "Moderate",
+        "reason": "The comparison baseline is a single retailer, one day, tees only. Prices also come from three different bases (announced ranges, one starting price, listings)."
+      },
+      "evidence": [
+        {
+          "launch": "offseason-wnba",
+          "shows": "Entry price $110 — nearly three times the top of the tee band."
+        },
+        {
+          "launch": "coach-wnba",
+          "shows": "A single $95 limited charm."
+        },
+        {
+          "launch": "catbird-wnba",
+          "shows": "Starting at $74 in sterling silver or 10K gold."
+        },
+        {
+          "launch": "liberty-nyon",
+          "shows": "$50 to $375 across seven pieces."
+        },
+        {
+          "launch": "nike-caitlin",
+          "shows": "Tee $47, hoodies $90–95, varsity jacket $325."
+        },
+        {
+          "launch": "playa-dream",
+          "shows": "$45 to $180 streetwear."
+        },
+        {
+          "launch": "pacsun-acfc",
+          "shows": "$40 to $70 — the lowest, and inside the tee band at its entry."
+        }
+      ],
+      "chart": "price",
+      "broader": "Seven independent sellers across two leagues are all publishing prices at or above the baseline. Entry prices fall in two groups: about $40–$50 (Pacsun, Playa Society, the Caitlin tee, NYON) and about $75–$110 (Catbird, Coach, Off Season). With seven data points, treat the groups as a description, not a finding.",
+      "alternatives": [
+        "Jackets and jewelry always cost more than tees. A high top price may only reflect the category.",
+        "Several of these are limited drops or athlete lines, where higher prices are normal and not a sign of how everyday team merchandise will price.",
+        "Announced prices are not transaction prices. The WNBA Store was discounting 30% on the day of the baseline snapshot."
+      ],
+      "matters": "If you are planning a fashion-led capsule, these are the published price points other sellers are testing. They give a reference range for the conversation with licensing and design partners. They say nothing about whether customers pay them.",
+      "change_mind": "A broader baseline (hoodies, jerseys, outerwear) that shows ordinary team product already sells in the same bands; or evidence that these items are heavily discounted or unsold.",
+      "missing": [
+        "Baselines for hoodies and outerwear",
+        "Prices for the Dream/Monarch, Athleta and LaFleur lines (not published)",
+        "Any sell-through at these prices"
+      ],
+      "watch": [
+        "caitlin-price",
+        "baseline-refresh"
+      ],
+      "prompt": "For a future collection: which piece makes the first purchase easy, and which piece defines the collection’s identity?"
+    }
+  ],
+  "not_a_finding": [
+    {
+      "claim": "Women's sports merchandise is growing.",
+      "why": "True and not actionable; nothing here measures it."
+    },
+    {
+      "claim": "More launches in 2026 than 2025 shows a growing trend.",
+      "why": "The sample was found by searching recent coverage. Recent months will always look fuller. The timeline is shown, but not interpreted as growth."
+    },
+    {
+      "claim": "Premium pricing works.",
+      "why": "Only published prices are known. No source discloses sell-through or discounting."
+    },
+    {
+      "claim": "Specialist partners outperform licensees.",
+      "why": "No comparative performance evidence exists in public sources."
+    }
+  ]
+}

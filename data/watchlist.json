@@ -1,0 +1,19 @@
+{
+  "as_of": "2026-11-19",
+  "items": [
+    {"id": "athleta-2027", "title": "Athleta × Valkyries co-branded team-store line", "when": "2027 (no date given)", "what": "The first look at what a specialist apparel partner actually puts in a team store: product types, silhouettes, prices.", "trigger": "Product images, a drop date or a price list appear.", "where": "valkyries.wnba.com news; Athleta.com", "tests": ["partners", "silhouettes"], "status": "waiting"},
+    {"id": "monarch-next", "title": "Monarch's next Dream collection", "when": "After 'Homegrown' (no date given)", "what": "Whether the operator model produces a second distinct collection, and whether prices are ever published.", "trigger": "A second named Dream collection or a second WNBA team announcing Monarch.", "where": "dream.wnba.com news", "tests": ["partners"], "status": "waiting"},
+    {"id": "caitlin-price", "title": "Caitlin 1 apparel: price changes and restocks", "when": "From Oct 1, 2026", "what": "Whether the $47–$325 apparel ladder holds, is discounted or sells out.", "trigger": "A price change on a monitored listing, or a markdown.", "where": "Hibbett and Nike listings (monitored)", "tests": ["price"], "status": "monitored"},
+    {"id": "baseline-refresh", "title": "Refresh the fan-tee price baseline", "when": "Monthly", "what": "The baseline is one day at one store. A second reading in January shows whether it moves.", "trigger": "Manual snapshot of the WNBA Store tee listings.", "where": "wnbastore.nba.com", "tests": ["price"], "status": "due"},
+    {"id": "liberty-holiday", "title": "Liberty's first holiday / stocking-stuffer products", "when": "Holiday 2026", "what": "A direct test of the accessories and 12-month-calendar claims.", "trigger": "Holiday product announcement or a Barclays store renovation reveal.", "where": "Liberty team store; Modern Retail follow-ups", "tests": ["accessories", "local", "silhouettes"], "status": "waiting"},
+    {"id": "coach-more", "title": "Coach beyond the bag charm", "when": "Unknown", "what": "Whether the handbag partnership produces anything beyond one limited charm.", "trigger": "A second Coach × WNBA product on coach.com.", "where": "coach.com listing (monitored)", "tests": ["partners", "accessories"], "status": "monitored"},
+    {"id": "nwsl-deaddirt-2", "title": "A second drop from NWSL × Dead Dirt", "when": "Unknown", "what": "Whether a league-wide designer template is repeated, which separates a launch from a program.", "trigger": "A second release or a new designer template.", "where": "nwslshop.com", "tests": ["local", "partners"], "status": "waiting"},
+    {"id": "fever-gap", "title": "A Fever-specific fashion or retail-model announcement", "when": "Any time", "what": "No public Fever-level fashion partnership comparable to the Dream, Valkyries or Liberty examples was found. If one appears it is the most directly relevant new evidence.", "trigger": "Any announcement naming the Fever with a fashion, retail-operator or specialist partner.", "where": "Leads feed (below); Fever and WNBA newsrooms", "tests": ["partners"], "status": "waiting"}
+  ],
+  "monitored_pages": [
+    {"id": "coach-charm", "url": "https://www.coach.com/products/coach-wnba-basketball-bag-charm/CGQ24.html", "why": "Price and availability of the $95 charm", "watch": "price"},
+    {"id": "hibbett-caitlin", "url": "https://www.hibbett.com/blog-sneaker-releases/nike-caitlin-clark-apparel-collection.html", "why": "Caitlin 1 apparel price ladder", "watch": "price"},
+    {"id": "lafleur-liberty", "url": "https://mmlafleur.com/pages/new-york-liberty-capsule", "why": "Whether prices or dates are added to the capsule page", "watch": "content"},
+    {"id": "dream-news", "url": "https://dream.wnba.com/news/atlanta-dream-redefines-womens-sports-retail", "why": "Edits to the Dream/Monarch announcement", "watch": "content"}
+  ]
+}

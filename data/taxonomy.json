@@ -1,0 +1,39 @@
+{
+  "_note": "Fixed vocabulary used to classify every launch. Add terms here before using them in launches.json.",
+  "silhouettes": {
+    "tee": {"label": "T-shirt", "family": "Tops"},
+    "long-sleeve": {"label": "Long-sleeve top", "family": "Tops"},
+    "polo": {"label": "Polo", "family": "Tops"},
+    "cropped-structured": {"label": "Cropped / corset top", "family": "Tops"},
+    "hoodie": {"label": "Hoodie / pullover", "family": "Tops"},
+    "knit": {"label": "Knitwear (jersey, sweater, cardigan)", "family": "Knit"},
+    "varsity-jacket": {"label": "Varsity jacket", "family": "Outerwear"},
+    "jacket": {"label": "Other jacket / coat", "family": "Outerwear"},
+    "lounge-sweats": {"label": "Lounge set / sweatpants", "family": "Bottoms & sets"},
+    "shorts": {"label": "Shorts", "family": "Bottoms & sets"},
+    "tailored": {"label": "Tailored / workwear", "family": "Bottoms & sets"},
+    "uniform": {"label": "Jersey / uniform", "family": "Game-day"},
+    "neckwear": {"label": "Tie / scarf / bandana", "family": "Accessories"},
+    "bag": {"label": "Bag / luggage", "family": "Accessories"},
+    "charm": {"label": "Bag charm / charm jewelry", "family": "Accessories"},
+    "jewelry": {"label": "Fine / demi-fine jewelry", "family": "Accessories"}
+  },
+  "structures": {
+    "retail-operator": "A specialist runs the team's retail",
+    "specialist-partner": "An outside fashion / lifestyle brand is the product partner",
+    "designer-capsule": "A named designer or label makes a capsule",
+    "mall-retailer": "A mainstream fashion retailer partners with a club",
+    "athlete-line": "A signature line built around one athlete",
+    "uniform-fanwear": "Uniform design extended into fan apparel",
+    "team-run": "The team's own merchandise operation"
+  },
+  "story_devices": {
+    "area-codes": "Area codes used as a design device",
+    "city-identity": "City / neighbourhood identity",
+    "local-makers": "Local designers or artists",
+    "athlete-story": "An athlete's personal story",
+    "anniversary": "League 30th-season tie-in",
+    "event-tie": "Tied to a game or event",
+    "upcycled": "Upcycled / reworked materials"
+  }
+}
